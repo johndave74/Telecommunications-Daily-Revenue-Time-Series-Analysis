@@ -1,7 +1,4 @@
-# D603 – Data Mining II
-**Western Governors University**  
-**Student:** John David  
-**Program:** Master of Science, Data Analytics
+**John David**
 
 ---
 
@@ -154,13 +151,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels pmdarima sc
 Each branch contains progressive commits made after completing each lettered requirement, documenting the step-by-step development of the analysis. See the Commits page on each branch for the full history.
 
 ---
-
-## Course Information
-
-| Field | Detail |
-|---|---|
-| Course | D603 – Data Mining II |
-| University | Western Governors University |
-| Program | MS Data Analytics |
-| Tasks | Classification, Clustering, Time Series |
-| Submission | 2024-2025 Academic Year |
