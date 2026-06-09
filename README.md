@@ -1,6 +1,6 @@
 # D603 – Data Mining II
 **Western Governors University**  
-**Student:** John David
+**Student:** John David  
 **Program:** Master of Science, Data Analytics
 
 ---
