@@ -1,7 +1,3 @@
-**John David**
-
----
-
 ## Repository Overview
 
 This repository contains all code, notebooks, and analysis for the three tasks in D603 Data Mining II. Each task is developed in its own branch with progressive commits documenting each step of the analysis.
